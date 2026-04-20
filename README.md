@@ -1,6 +1,6 @@
 # 📊 Agros Analytics
 
-**Agros Analytics** is a modern, premium, and intelligent expense tracking application designed to help users visualize their financial habits. Built with a sleek, Apple-inspired aesthetic, the platform goes beyond simple logging by offering predictive AI-driven insights, anomaly detection, and beautiful interactive data visualizations.
+**Agros Analytics** is a modern, premium, and intelligent expense tracking application designed to help users visualize their financial habits. Built with a sleek, aesthetic, the platform goes beyond simple logging by offering predictive AI-driven insights, anomaly detection, and beautiful interactive data visualizations.
 
 ---
 
